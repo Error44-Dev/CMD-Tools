@@ -1,2 +1,2 @@
-# CMD TOOLS
+# Dev Tools
 Discord bot small commands
